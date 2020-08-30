@@ -9,7 +9,7 @@ export default new Vuex.Store({
   state: {
     usuario: '',
     error: '',
-    APIExterna: 'https://www.sorik.es/incefor/src/API/API.php',
+    APIExterna: 'https://www.xxxxx.es/incefor/src/API/API.php',
     APIXampp: 'http://localhost/Vue.JS/API/API.php',
   },
   mutations: {
