@@ -305,7 +305,7 @@
              */
             usuarioCorrecto(){
                 let usuarioMaestro = false;
-                if(this.usuario.email === "ncreador@gmail.com"){
+                if(this.usuario.email === "@gmail.com"){
                     usuarioMaestro = true;
                 }
                 return usuarioMaestro;
