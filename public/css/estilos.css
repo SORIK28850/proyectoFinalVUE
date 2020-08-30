@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Merriweather-Regular;
+    src: url("fonts/Merriweather-Regular.ttf");
+    font-size: 20px;
+}
+
+html,body{
+    width: 100%;
+}
