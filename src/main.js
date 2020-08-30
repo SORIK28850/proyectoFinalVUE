@@ -21,14 +21,14 @@ require ("firebase/auth");
 //llamada a los productos de firebase
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCNPbFl77RKRps5rSFGkbZ883zLoGAvmmw",
-  authDomain: "incefortorrejon.firebaseapp.com",
-  databaseURL: "https://incefortorrejon.firebaseio.com",
-  projectId: "incefortorrejon",
-  storageBucket: "incefortorrejon.appspot.com",
-  messagingSenderId: "651393762986",
-  appId: "1:651393762986:web:e7fe19323441d70d9cf2d3",
-  measurementId: "G-XFCZJ9N6JP"
+  apiKey: "",
+  authDomain: ".firebaseapp.com",
+  databaseURL: "https://.firebaseio.com",
+  projectId: "",
+  storageBucket: ".appspot.com",
+  messagingSenderId: "",
+  appId: "1::web:e7fe19323441d70d9cf2d3",
+  measurementId: "G-"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
