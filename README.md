@@ -1,4 +1,5 @@
-# incefor
+# incefor Proyecto de fin de FPII, se trata de una aplicación web para una empresa de formación contra incendios. Falta por desarrollar el formulario de contacto y la
+# documentación.
 
 ## Project setup
 ```
