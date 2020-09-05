@@ -7,7 +7,7 @@
             clipped
             color="#f5f5f5"
     >
-      <v-img src="https://www.sorik.es/incefor/src/inceforTransparente.png" class="logoMenu"></v-img>
+      <v-img src="https://" class="logoMenu"></v-img>
       <v-list dense>
         <v-list-item link>
           <v-list-item-action>
@@ -100,7 +100,7 @@
                   <v-btn
                           class="mx-5"
                           icon
-                          href="https://www.linkedin.com/in/formaciongestionemergencias/"
+                          href="https://www.linkedin.com//"
 
                   >
                     <v-icon size="30px">mdi-linkedin-box</v-icon>
@@ -108,7 +108,7 @@
                   <v-btn
                           class="mx-5"
                           icon
-                          href="https://www.facebook.com/SORIK"
+                          href="https://www.facebook.com"
 
                   >
                     <v-icon size="30px">mdi-facebook-box</v-icon>
@@ -142,10 +142,10 @@
         'mdi-instagram',
       ],
       hrefs: [
-        'https://twitter.com/SORIK28850',
-        'https://www.linkedin.com/in/formaciongestionemergencias/',
-        'https://www.facebook.com/SORIK',
-        'https://www.instagram.com/sorik28850/',
+        'https://twitter.com/',
+        'https://www.linkedin.com/',
+        'https://www.facebook.com/',
+        'https://www.instagram.com/',
 
       ],
     }),
